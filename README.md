@@ -1,11 +1,11 @@
-This is reposatory that will give you quick and easy start for Flask Development.
+This is a repository that will give you a quick and easy start for Flask Development.
 
-This is part of a medium artical, follow the artical to understand the Template.
+This is part of a medium article, follow the article to understand the Template.
 
-To get started, clone repository and cd to folder and run :
+To get started, clone repository and cd to the folder and run :
 
 $python -r requriments.txt
 
-and then, run following command:
+and then, run the following command:
 
 $flask run
