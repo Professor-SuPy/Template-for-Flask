@@ -1,0 +1,1 @@
+Here upload HTML files that are constant thought the website. Like nav bar and footer.
